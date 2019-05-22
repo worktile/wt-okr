@@ -8,7 +8,7 @@
   * [OKR适用于哪类公司？](INTRO/corp.md)
 * [OKR实施](IMPL.md)
   * [OKR实施前需要做哪些准备？](IMPL/preparation.md)
-  * [一个OKR周期中都有哪些关键事项？](IMPL/period.md)
+  * [一个OKR周期都有哪些关键事项？](IMPL/period.md)
   * [OKR实施中都有哪些坑儿？](IMPL/hole.md)
 * [OKR的高阶问题](QA.md)
   * [OKR父、子目标之间是何种关系？](QA/alignment.md)
