@@ -8,6 +8,8 @@
   * [OKR适用于哪类公司？](INTRO/corp.md)
 * [OKR实施](IMPL.md)
   * [OKR实施前需要做哪些准备？](IMPL/preparation.md)
+  * [period](IMPL/period.md)
+  * [OKR实施中都有哪些坑儿？](IMPL/hole.md)
 * [OKR的高阶问题](QA.md)
   * [OKR父、子目标之间是何种关系？](QA/alignment.md)
   * [为什么父级的KR不应该是子级的KR？](QA/difference.md)
