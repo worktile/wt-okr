@@ -7,7 +7,7 @@
   * [OKR有哪些独特价值？](INTRO/value.md)
   * [OKR适用于哪类公司？](INTRO/corp.md)
 * [OKR实施](IMPL.md)
-  * [OKR实施前需要做哪些准备？](IMPL/preparation.md)
+  * [OKR实施前要做哪些准备？](IMPL/preparation.md)
   * [一个OKR周期都有哪些关键事项？](IMPL/period.md)
     * [1. OKR设定](IMPL/period/1.md)
     * [2. OKR的评分规则](IMPL/period/2.md)
