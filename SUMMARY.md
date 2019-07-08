@@ -17,6 +17,7 @@
     * [7. OKR复盘](IMPL/period/7.md)
   * [OKR实施中都有哪些坑儿？](IMPL/hole.md)
 * [OKR的高阶问题](QA.md)
+  * [OKR是否应符合“SMART原则”？](QA/smart.md)
   * [OKR父、子目标之间是何种关系？](QA/alignment.md)
   * [为什么父级的KR不应该是子级的O？](QA/difference.md)
   * [OKR与KPI是什么关系？](QA/kpi.md)
