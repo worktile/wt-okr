@@ -6,7 +6,7 @@
 
 [1. 设定各级OKR ](/IMPL/period/1.md) 
 
-[2. 细化各项KR的评分标准](/IMPL/period/2.md) 
+[2. 细化各项KR的打分标准](/IMPL/period/2.md) 
 
 [3. 根据OKR制定具体的行动方案](/IMPL/period/3.md) 
 
