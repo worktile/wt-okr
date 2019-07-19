@@ -12,4 +12,10 @@
 高挑战性 | | √ 
 时效性 | √ | √
 
+# [OKR概述](/INTRO/INTRO.md)
 
+# [OKR实施](/INTRO/IMPL.md)
+
+# [OKR的高阶问题](/QA.md)
+
+# [OKR解读文章索引](/Index.md)
