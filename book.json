@@ -16,11 +16,11 @@
     ],
     "pluginsConfig": {
         "favicon": {
-            "shortcut": "assets/ico/favicon.ico",
-            "bookmark": "assets/ico/favicon.ico"
+            "shortcut": "/okr/assets/ico/favicon.ico",
+            "bookmark": "/okr/assets/ico/favicon.ico"
         },
         "worktile": {
-            "src": "/assets/ico/worktile-new-logo-v2.1-02.svg",
+            "src": "/okr/assets/ico/worktile-new-logo-v2.1-02.svg",
             "style":"width:80%;margin:15px 10% 0 4%;",
             "link": "http://worktile.com",
             "icp": "© Worktile 2019 | 京ICP备13017353号-3",
