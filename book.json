@@ -16,8 +16,8 @@
     ],
     "pluginsConfig": {
         "favicon": {
-            "shortcut": "assets/ico/favicon.ico",
-            "bookmark": "assets/ico/favicon.ico"
+            "shortcut": "/okr/assets/ico/favicon.ico",
+            "bookmark": "/okr/assets/ico/favicon.ico"
         },
         "worktile": {
             "src": "/assets/ico/worktile-logov3x.svg",
