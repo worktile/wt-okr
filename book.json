@@ -20,7 +20,7 @@
             "bookmark": "assets/ico/favicon.ico"
         },
         "worktile": {
-            "src": "/assets/ico/worktile-logov3x.svg",
+            "src": "/okr/assets/ico/worktile-logov3x.svg",
             "style":"width:80%;margin:15px 10% 0 4%;",
             "link": "http://worktile.com",
             "icp": "© Worktile 2019 | 京ICP备13017353号-3",
